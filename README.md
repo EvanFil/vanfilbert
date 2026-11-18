@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi, I'm Yoga 👋
+### Hi, I'm Evan 👋
 
 **Informatics Student | Software Engineering & UI/UX Enthusiast**
 
